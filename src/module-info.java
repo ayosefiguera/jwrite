@@ -1,2 +1,3 @@
-module jwrite {
+module Jwrite {
+	requires java.desktop;
 }
